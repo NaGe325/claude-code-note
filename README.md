@@ -6,12 +6,11 @@
 
 ## Backstory
 
-folks, at 4am woke up to my phone blowing up with tons of notis
-my gf in korea worried get legal action by anthropic  so did a feature port to python and pushed it
+At 4 AM on March 31, 2026, I woke up to my phone blowing up with notifications. The Claude Code source had been exposed, and the entire dev community was in a frenzy. My girlfriend in Korea was genuinely worried I might face legal action from Anthropic just for having the code on my machine — so I did what any engineer would do under pressure: I sat down, ported the core features to Python from scratch, and pushed it before the sun came up.
 
-so i wrote it all up using [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) [@OpenAIDevs](https://x.com/OpenAIDevs) [@bellman_ych](https://x.com/bellman_ych)
+The whole thing was orchestrated end-to-end using [oh-my-codex (OmX)](https://github.com/Yeachan-Heo/oh-my-codex) by [@bellman_ych](https://x.com/bellman_ych) — a workflow layer built on top of OpenAI's Codex ([@OpenAIDevs](https://x.com/OpenAIDevs)). I used `$team` mode for parallel code review and `$ralph` mode for persistent execution loops with architect-level verification. The entire porting session — from reading the original harness structure to producing a working Python tree with tests — was driven through OmX orchestration.
 
-try this one, look nice
+The result is a clean-room Python rewrite that captures the architectural patterns of Claude Code's agent harness without copying any proprietary source. Take a look:
 
 https://github.com/instructkr/claude-code
 

@@ -1,4 +1,4 @@
-# Code Reading Notes
+# Claude—code-note
 
 这是一个专门记录我对claude code开源源码阅读笔记、架构分析和心得梳理的仓库。
 

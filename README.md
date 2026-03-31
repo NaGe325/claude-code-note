@@ -4,6 +4,39 @@
 
 ---
 
+## Backstory
+
+folks, at 4am woke up to my phone blowing up with tons of notis
+my gf in korea worried get legal action by anthropic  so did a feature port to python and pushed it
+
+so i wrote it all up using [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) [@OpenAIDevs](https://x.com/OpenAIDevs) [@bellman_ych](https://x.com/bellman_ych)
+
+try this one, look nice
+
+https://github.com/instructkr/claude-code
+
+![Tweet screenshot](assets/tweet-screenshot.png)
+
+---
+
+## Featured in The Wall Street Journal
+
+This work was featured in **The Wall Street Journal** (print edition: March 21, 2026, *"The Trillion Dollar Race to Automate Our Entire Lives"*).
+
+> AI startup worker Sigrid Jin, who attended the Seoul dinner, single-handedly used 25 billion of Claude Code tokens last year. At the time, usage limits were looser, allowing early enthusiasts to reach tens of billions of tokens at a very low cost.
+>
+> Despite his countless hours with Claude Code, Jin isn't faithful to any one AI lab. The tools available have different strengths and weaknesses, he said. Codex is better at reasoning, while Claude Code generates cleaner, more shareable code.
+>
+> Jin flew to San Francisco in February for Claude Code's first birthday party, where attendees waited in line to compare notes with Cherny. The crowd included a practicing cardiologist from Belgium who had built an app to help patients navigate care, and a California lawyer who made a tool for automating building permit approvals using Claude Code.
+>
+> "It was basically like a sharing party," Jin said. "There were lawyers, there were doctors, there were dentists. They did not have software engineering backgrounds."
+
+[Read the full article](https://lnkd.in/gs9td3qd)
+
+![WSJ Feature](assets/wsj-feature.png)
+
+---
+
 ## Porting Status
 
 The main source tree is now Python-first.

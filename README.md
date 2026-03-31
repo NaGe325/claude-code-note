@@ -17,11 +17,7 @@ https://github.com/instructkr/claude-code
 
 ![Tweet screenshot](assets/tweet-screenshot.png)
 
----
-
-## Featured in The Wall Street Journal
-
-This work was featured in **The Wall Street Journal** (print edition: March 21, 2026, *"The Trillion Dollar Race to Automate Our Entire Lives"*).
+I've been deeply interested in **harness engineering** — studying how agent systems wire tools, orchestrate tasks, and manage runtime context. This isn't a sudden thing. The Wall Street Journal featured my work earlier this month, documenting how I've been one of the most active power users exploring these systems:
 
 > AI startup worker Sigrid Jin, who attended the Seoul dinner, single-handedly used 25 billion of Claude Code tokens last year. At the time, usage limits were looser, allowing early enthusiasts to reach tens of billions of tokens at a very low cost.
 >
@@ -30,8 +26,8 @@ This work was featured in **The Wall Street Journal** (print edition: March 21, 
 > Jin flew to San Francisco in February for Claude Code's first birthday party, where attendees waited in line to compare notes with Cherny. The crowd included a practicing cardiologist from Belgium who had built an app to help patients navigate care, and a California lawyer who made a tool for automating building permit approvals using Claude Code.
 >
 > "It was basically like a sharing party," Jin said. "There were lawyers, there were doctors, there were dentists. They did not have software engineering backgrounds."
-
-[Read the full article](https://lnkd.in/gs9td3qd)
+>
+> — *The Wall Street Journal*, March 21, 2026, [*"The Trillion Dollar Race to Automate Our Entire Lives"*](https://lnkd.in/gs9td3qd)
 
 ![WSJ Feature](assets/wsj-feature.png)
 
